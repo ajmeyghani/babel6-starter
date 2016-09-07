@@ -1,4 +1,4 @@
-# Simple Babel
+# Babel6 Starter Project
 
 Simple babel configuration:
 
